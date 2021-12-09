@@ -3,7 +3,7 @@
     border: 2px solid black;
 }
 
-*.col{
+.col{
     border: 2px dashed darkgray;
     background-color: lightyellow;
 }
@@ -12,6 +12,7 @@
 .bg-green{
     background-color: lightgreen;
 }
+
 
 ul{
     list-style-type: none;
