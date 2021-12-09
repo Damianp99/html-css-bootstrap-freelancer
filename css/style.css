@@ -1,9 +1,14 @@
 
 .row{
-    border: 2px solid red;
+    border: 2px solid black;
 }
 
-.col{
-    border: 2px dashed green;
-    background-color: pink;
+*.col{
+    border: 2px dashed darkgray;
+    background-color: lightyellow;
+}
+
+
+.bg-green{
+    background-color: lightgreen;
 }
