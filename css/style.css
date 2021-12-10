@@ -14,7 +14,6 @@
 
 /*  ICONS */
 
-
 .bi-list{
     color: gray;
     border: 1px solid white;
@@ -44,6 +43,13 @@ img{
    padding-bottom: 20px;
 }
 
+/* FORM BORDER */
+
+.border-bot{
+    border-width: 0 0 1px 0;
+}
+
+/* LINK */
 a{
     text-decoration: none;
     color: white;
