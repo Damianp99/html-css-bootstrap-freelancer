@@ -1,20 +1,54 @@
+/* BG COLORS */
 
-.row{
-    border: 2px solid black;
+.bg-darkblue{
+    background-color: #2C3E50;
 }
 
-.col{
-    border: 2px dashed darkgray;
-    background-color: lightyellow;
+.bg-blue{
+    background-color: #3A546D;
 }
 
-
-.bg-green{
-    background-color: lightgreen;
+.bg-acqua{
+    background-color: #1ABC9C;
 }
 
+/*  ICONS */
 
-ul{
-    list-style-type: none;
+
+.bi-list{
+    color: gray;
+    border: 1px solid white;
+    padding: 0px 5px;
+    border-radius: 2px;
 }
 
+.bi-star-fill{
+    font-size: 40px;
+}
+
+/* TEXT */
+
+.avatar-text{
+    font-size: 20px;
+
+}
+
+/* IMG */
+img{
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+#avatar{
+   max-width: 40%;
+   padding-bottom: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
